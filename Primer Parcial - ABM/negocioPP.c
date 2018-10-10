@@ -1,10 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "menuPrincipal.h"
-#include "clientes.h"
-#include "juegos.h"
-#include "alquileres.h"
+#include "negocio.h"
 #include "utn.h"
 
 void menuPrincipal(eCliente listaClientes[], int tamCliente, eJuego listaJuegos[], int tamJuegos, eAlquiler listaAlquiler[], int tamAlquiler)
@@ -519,7 +516,7 @@ void agregarJuego(eJuego listaJuegos[], int tamJuego)
 	}
 	else
 	{
-		printf("Ingrese id de Cliente para verificar: ");
+		printf("Ingrese id de Juego para verificar: ");
 		scanf("%d", &idJuego);
 
 		esta = buscarJuego(listaJuegos, tamJuego, idJuego);
@@ -589,7 +586,7 @@ void eliminarJuego(eJuego listaJuegos[], int tamJuego)
 	indice = buscarJuego(listaJuegos, tamJuego, id);
 
 	if( indice == -1){
-		printf("No hay ningun empleado con el id %d\n", id);
+		printf("No hay ningun juego con el id %d\n", id);
 	}
 	else{
 		juego = listaJuegos[indice];

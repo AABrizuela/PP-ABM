@@ -38,3 +38,42 @@
 
 1539005688 d:\brizuela.adrian\informes\primer parcial - abm\utn.h
 
+1539012372 source:c:\users\alumno\downloads\pp-abm-master\primer parcial - abm\negociopp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menuPrincipal.h"
+	"clientes.h"
+	"juegos.h"
+	"alquileres.h"
+	"utn.h"
+
+1539173113 c:\users\alumno\downloads\pp-abm-master\primer parcial - abm\menuprincipal.h
+	"clientes.h"
+	"juegos.h"
+	"alquileres.h"
+
+1539012372 c:\users\alumno\downloads\pp-abm-master\primer parcial - abm\clientes.h
+
+1539012372 c:\users\alumno\downloads\pp-abm-master\primer parcial - abm\juegos.h
+
+1539012372 c:\users\alumno\downloads\pp-abm-master\primer parcial - abm\alquileres.h
+
+1539012372 c:\users\alumno\downloads\pp-abm-master\primer parcial - abm\utn.h
+
+1539012372 source:c:\users\alumno\downloads\pp-abm-master\primer parcial - abm\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1539173113 source:c:\users\alumno\downloads\pp-abm-master\primer parcial - abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menuPrincipal.h"
+	"clientes.h"
+	"juegos.h"
+	"alquileres.h"
+

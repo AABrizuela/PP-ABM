@@ -1,10 +1,20 @@
+/*******************************************************************
+*Programa: ABM
+*
+*Objetivo:
+    Ingresar datos de clientes y juegos, y en base a esos datos
+    hacer alquileres. Listar diferentes informes.
+
+*
+*Version del 10 de octubre de 2018
+*Autor: Adrian Brizuela
+*
+********************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "menuPrincipal.h"
-#include "clientes.h"
-#include "juegos.h"
-#include "alquileres.h"
+#include "negocio.h"
 
 int main()
 {
@@ -16,6 +26,7 @@ int main()
     eAlquiler listaAlquiler[tamAlquiler];
 
     inicializarClientes(listaClientes, tamCliente);
+    inicializarJuegos(listaJuegos, tamJuegos);
 
     menuPrincipal(listaClientes, tamCliente, listaJuegos, tamJuegos, listaAlquiler, tamAlquiler);
 

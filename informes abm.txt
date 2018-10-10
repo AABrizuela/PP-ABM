@@ -1,0 +1,14 @@
+Informes abm:
+
+1.- Promedio y total de los importes de los juegos alquilados.
+2.- La cantidad de juegos cuyo importe NO superan el promedio del item anterior.
+3.- Listar todos los clientes que alquilaron un juego determinado.
+4.- Listar todos los juegos que fueron alquilados por un cliente determinado.
+5.- Listar los juegos menos alquilados.
+6.- Listar los clientes que realizaron mas alquileres.
+7.- Listar todos los juegos alquilados en una fecha determinada.
+8.- Listar todos los clientes que realizaron al menos un alquiler en una fecha determinada.
+9.- Listar todos los juegos ordenados por importe (descendente), utilizando 
+el metodo de burbujeo mas eficiente.
+10.- Listar todos los clientes ordenados por apellido (ascendente, utilizando
+el metodo de insercion.

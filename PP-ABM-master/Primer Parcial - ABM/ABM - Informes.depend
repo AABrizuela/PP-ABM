@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1539174345 source:c:\users\alumno\downloads\brizuela_adrian_1a_pp\primer parcial - abm\negociopp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"negocio.h"
+	"utn.h"
+
+1539173113 c:\users\alumno\downloads\brizuela_adrian_1a_pp\primer parcial - abm\menuprincipal.h
+	"clientes.h"
+	"juegos.h"
+	"alquileres.h"
+
+1539012372 c:\users\alumno\downloads\brizuela_adrian_1a_pp\primer parcial - abm\clientes.h
+
+1539012372 c:\users\alumno\downloads\brizuela_adrian_1a_pp\primer parcial - abm\juegos.h
+
+1539012372 c:\users\alumno\downloads\brizuela_adrian_1a_pp\primer parcial - abm\alquileres.h
+
+1539012372 c:\users\alumno\downloads\brizuela_adrian_1a_pp\primer parcial - abm\utn.h
+
+1539012372 source:c:\users\alumno\downloads\brizuela_adrian_1a_pp\primer parcial - abm\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1539174270 source:c:\users\alumno\downloads\brizuela_adrian_1a_pp\primer parcial - abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"negocio.h"
+
+1539174270 c:\users\alumno\downloads\brizuela_adrian_1a_pp\primer parcial - abm\negocio.h
+
+1542027027 source:d:\brizuela.adrian\pp-abm-master\primer parcial - abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+	"clientes.h"
+	"menuPrincipal.h"
+	"alquileres.h"
+	"utn.h"
+
+1542026966 d:\brizuela.adrian\pp-abm-master\primer parcial - abm\negocio.h
+
+1539174735 source:d:\brizuela.adrian\pp-abm-master\primer parcial - abm\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1539174735 d:\brizuela.adrian\pp-abm-master\primer parcial - abm\utn.h
+
+1542028792 source:d:\brizuela.adrian\pp-abm-master\primer parcial - abm\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"clientes.h"
+
+1539174735 d:\brizuela.adrian\pp-abm-master\primer parcial - abm\clientes.h
+
+1542026966 d:\brizuela.adrian\pp-abm-master\primer parcial - abm\juegos.h
+
+1542026966 d:\brizuela.adrian\pp-abm-master\primer parcial - abm\menuprincipal.h
+	"clientes.h"
+	"juegos.h"
+	"alquileres.h"
+
+1542027720 d:\brizuela.adrian\pp-abm-master\primer parcial - abm\alquileres.h
+	"juegos.h"
+	"clientes.h"
+
+1542026880 source:d:\brizuela.adrian\pp-abm-master\primer parcial - abm\menuprincipal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"clientes.h"
+	"juegos.h"
+	"menuprincipal.h"
+	"alquileres.h"
+
+1542027155 source:d:\brizuela.adrian\pp-abm-master\primer parcial - abm\juegos.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"juegos.h"
+	"utn.h"
+
+1542027155 source:d:\brizuela.adrian\pp-abm-master\primer parcial - abm\negociopp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"negocio.h"
+	"utn.h"
+

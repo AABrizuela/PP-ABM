@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1539005659 source:d:\brizuela.adrian\informes\primer parcial - abm\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1539008195 source:d:\brizuela.adrian\informes\primer parcial - abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menuPrincipal.h"
+	"clientes.h"
+	"juegos.h"
+	"alquileres.h"
+
+1539007924 d:\brizuela.adrian\informes\primer parcial - abm\menuprincipal.h
+	"clientes.h"
+	"juegos.h"
+	"alquileres.h"
+
+1539010351 d:\brizuela.adrian\informes\primer parcial - abm\clientes.h
+
+1539010816 d:\brizuela.adrian\informes\primer parcial - abm\juegos.h
+
+1539002662 d:\brizuela.adrian\informes\primer parcial - abm\alquileres.h
+
+1539010102 source:d:\brizuela.adrian\informes\primer parcial - abm\negociopp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menuPrincipal.h"
+	"clientes.h"
+	"juegos.h"
+	"alquileres.h"
+	"utn.h"
+
+1539005688 d:\brizuela.adrian\informes\primer parcial - abm\utn.h
+
+1539012372 source:c:\users\alumno\downloads\pp-abm-master\primer parcial - abm\negociopp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menuPrincipal.h"
+	"clientes.h"
+	"juegos.h"
+	"alquileres.h"
+	"utn.h"
+
+1539173113 c:\users\alumno\downloads\pp-abm-master\primer parcial - abm\menuprincipal.h
+	"clientes.h"
+	"juegos.h"
+	"alquileres.h"
+
+1539012372 c:\users\alumno\downloads\pp-abm-master\primer parcial - abm\clientes.h
+
+1539012372 c:\users\alumno\downloads\pp-abm-master\primer parcial - abm\juegos.h
+
+1539012372 c:\users\alumno\downloads\pp-abm-master\primer parcial - abm\alquileres.h
+
+1539012372 c:\users\alumno\downloads\pp-abm-master\primer parcial - abm\utn.h
+
+1539012372 source:c:\users\alumno\downloads\pp-abm-master\primer parcial - abm\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1539173113 source:c:\users\alumno\downloads\pp-abm-master\primer parcial - abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menuPrincipal.h"
+	"clientes.h"
+	"juegos.h"
+	"alquileres.h"
+
